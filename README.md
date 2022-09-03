@@ -6,7 +6,7 @@ Web Developer and Designer
 
 * 🌍  I'm based in Czech Republic
 * ✉️  You can contact me at [dannyseiner@gmail.com](mailto:dannyseiner@gmail.com)
-* 🚀  I'm currently working on [discope](http://discope.com)
+* 🚀  I'm currently working on [discope](http://discope.cz)
 
 ### Skills
 
